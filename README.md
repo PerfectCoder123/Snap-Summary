@@ -62,3 +62,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) f
 
 - [OpenAI](https://openai.com) for providing the powerful AI technology.
 - [Three.js](https://threejs.org) for the interactive 3D visualization.
+- [Flaticon](https://www.flaticon.com) for providing icons used in the project.
